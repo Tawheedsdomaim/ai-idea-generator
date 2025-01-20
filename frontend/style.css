@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f9;
+}
+.container {
+    margin: 50px auto;
+    max-width: 600px;
+    padding: 20px;
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+input, button {
+    margin: 10px 0;
+    padding: 10px;
+    width: 80%;
+}
+#ideaOutput {
+    margin-top: 20px;
+    font-size: 1.2em;
+    color: #333;
+}
